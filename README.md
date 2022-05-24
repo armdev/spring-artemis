@@ -1,4 +1,4 @@
-# sprint-artemis
+# spring-artemis
 spring jms : producer - consumer
 
 run artemis: docker-compose up -d
