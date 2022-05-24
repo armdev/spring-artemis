@@ -1,0 +1,15 @@
+spring:
+  jms:
+    template:
+      default-destination: hotel.mycloud
+  artemis:
+    host: localhost
+    port: 61616
+    user: admin
+    password: admin
+    embedded:
+      enabled: false
+
+
+server:
+  port: 2076
